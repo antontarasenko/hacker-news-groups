@@ -2,7 +2,7 @@
 
 *Meetups and online groups for Hacker News readers*
 
-Feel free to add your groups with pull requests or by sending them to <antontarasenko@gmail.com>. For contributing to HN-related apps and services, see `[awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news)`.
+Feel free to add your groups with pull requests or by sending them to <antontarasenko@gmail.com>. For contributing to HN-related apps and services, see [`awesome-hacker-news`](https://github.com/cheeaun/awesome-hacker-news).
 
 
 ## Meetups
