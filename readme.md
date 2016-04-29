@@ -2,7 +2,11 @@
 
 *Meetups and online groups for Hacker News readers*
 
-Feel free to add your groups with pull requests or by sending them to <antontarasenko@gmail.com>. For contributing to HN-related apps and services, see [`awesome-hacker-news`](https://github.com/cheeaun/awesome-hacker-news).
+Here you can find the nearest Hacker News meetup or online community. 
+
+If you haven't found your city below, you can open your own local branch of Hacker News. Most of the groups use [meetup.com](http://meetup.com/).
+
+Feel free to add links with pull requests or by sending them to <antontarasenko@gmail.com>. For contributing to HN-related apps and services, see [`awesome-hacker-news`](https://github.com/cheeaun/awesome-hacker-news).
 
 
 ## Meetups
