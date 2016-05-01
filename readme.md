@@ -42,6 +42,9 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 - [Tokyo](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
 
+### France
+
+- [Paris](http://www.meetup.com/fr-FR/ParisHackers/)
 
 ## Web
 
