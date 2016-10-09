@@ -2,7 +2,7 @@
 
 *Meetups and online groups for Hacker News readers*
 
-Here you can find the nearest Hacker News meetup or online community. 
+Here you can find the nearest Hacker News meetup or online community.
 
 If you haven't found your city below, you can open your own local branch of Hacker News. Most of the groups use [meetup.com](http://meetup.com/).
 
@@ -45,6 +45,10 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 ### France
 
 - [Paris](http://www.meetup.com/fr-FR/ParisHackers/)
+
+### Spain
+
+- [Madrid](https://www.meetup.com/Hacker-News-Madrid)
 
 ## Web
 
