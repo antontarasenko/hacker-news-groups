@@ -48,7 +48,7 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 ### Spain
 
-- [Madrid](https://www.meetup.com/Hacker-News-Madrid)
+- [Madrid](http://www.meetup.com/hnmadrid)
 
 ## Web
 
