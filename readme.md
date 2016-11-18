@@ -44,7 +44,9 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 ### France
 
-- [Paris](http://www.meetup.com/fr-FR/ParisHackers/)
+- Paris
+  - [ParisHackers](http://www.meetup.com/fr-FR/ParisHackers/)
+  - [HN Paris](https://hn.silexlabs.org/) and [meetup](https://www.meetup.com/Hacker-News-Paris-user-group/)
 
 ### Spain
 
