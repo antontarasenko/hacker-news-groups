@@ -19,7 +19,9 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 - Paris
   - [ParisHackers](http://www.meetup.com/fr-FR/ParisHackers/)
-  - [HN Paris](https://hn.silexlabs.org/) and [meetup](https://www.meetup.com/Hacker-News-Paris-user-group/)
+  - HN Paris
+    - [Homepage](https://hn.silexlabs.org/)
+    - [Meetup.com](https://www.meetup.com/Hacker-News-Paris-user-group/)
 
 ### Germany
 
@@ -27,7 +29,11 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 ### Japan
 
-- [Tokyo](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
+- Tokyo
+  - Hacker News Tokyo
+    - [Meetup.com](https://www.meetup.com/Hacker-News-Tokyo-Japan/)
+    - [Doorkeeper](https://hntokyo.doorkeeper.jp/)
+    - [Facebook](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
 
 ### India
 
