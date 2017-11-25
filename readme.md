@@ -26,14 +26,18 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 ### Germany
 
 - [Berlin](http://www.meetup.com/Berlin-Hacker-News-Meetup/)
+- [Muchich](https://www.meetup.com/Hacker-News-Munich/)
 
 ### Japan
 
+- Kansai
+  - [Homepage](http://hnkansai.org/)
+  - [Meetup.com](https://www.meetup.com/Hacker-News-Kansai/)
+
 - Tokyo
-  - Hacker News Tokyo
-    - [Meetup.com](https://www.meetup.com/Hacker-News-Tokyo-Japan/)
-    - [Doorkeeper](https://hntokyo.doorkeeper.jp/)
-    - [Facebook](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
+  - [Meetup.com](https://www.meetup.com/Hacker-News-Tokyo-Japan/)
+  - [Doorkeeper](https://hntokyo.doorkeeper.jp/)
+  - [Facebook](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
 
 ### India
 
