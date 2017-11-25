@@ -52,6 +52,10 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 - [Madrid](http://www.meetup.com/hnmadrid)
 
+### Italy
+
+- [Milan](https://www.meetup.com/Hacker-News-Milano)
+
 ## Web
 
 - [Facebook](https://www.facebook.com/groups/114326995294656/)
