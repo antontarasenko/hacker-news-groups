@@ -15,13 +15,31 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 - [Shanghai](http://www.meetup.com/Shanghai-Hacker-News-Meetup/)
 
+### France
+
+- Paris
+  - [ParisHackers](http://www.meetup.com/fr-FR/ParisHackers/)
+  - [HN Paris](https://hn.silexlabs.org/) and [meetup](https://www.meetup.com/Hacker-News-Paris-user-group/)
+
 ### Germany
 
 - [Berlin](http://www.meetup.com/Berlin-Hacker-News-Meetup/)
 
+### Japan
+
+- [Tokyo](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
+
 ### India
 
 - [Chennai](http://www.meetup.com/Hacker-News-Chennai/)
+
+### Italy
+
+- [Milan](https://www.meetup.com/Hacker-News-Milano)
+
+### Spain
+
+- [Madrid](http://www.meetup.com/hnmadrid)
 
 ### United Kingdom
 
@@ -37,20 +55,6 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 - [San Francisco](https://www.facebook.com/groups/gosfhn/)
 - [Seattle](http://www.meetup.com/HackerNewsSeattleMeetup/)
 - [Stanford](http://www.meetup.com/Stanford-Hacker-News/)
-
-### Japan
-
-- [Tokyo](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
-
-### France
-
-- Paris
-  - [ParisHackers](http://www.meetup.com/fr-FR/ParisHackers/)
-  - [HN Paris](https://hn.silexlabs.org/) and [meetup](https://www.meetup.com/Hacker-News-Paris-user-group/)
-
-### Spain
-
-- [Madrid](http://www.meetup.com/hnmadrid)
 
 ## Web
 
