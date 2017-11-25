@@ -26,7 +26,7 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 ### Germany
 
 - [Berlin](http://www.meetup.com/Berlin-Hacker-News-Meetup/)
-- [Muchich](https://www.meetup.com/Hacker-News-Munich/)
+- [Munich](https://www.meetup.com/Hacker-News-Munich/)
 
 ### Japan
 
