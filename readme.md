@@ -58,6 +58,7 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 ### United States
 
 - [Atlanta](https://www.linkedin.com/groups/52622/profile)
+- [Boston](https://www.meetup.com/Hacker-News-Boston/)
 - [Chicago](http://www.meetup.com/hnchicago/)
 - [DC](http://hackernewsdc.org/)
 - [Los Angeles](http://www.meetup.com/LAHackers/)
