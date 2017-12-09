@@ -37,7 +37,7 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 - Tokyo
   - [Meetup.com](https://www.meetup.com/Hacker-News-Tokyo-Japan/)
   - [Doorkeeper](https://hntokyo.doorkeeper.jp/)
-  - [Slack](https://hackernewstokyo.slack.com/)
+  - [Slack](https://hntokyo.io/)
   - [Facebook](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
 
 ### India
