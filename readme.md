@@ -63,7 +63,6 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 - [Chicago](http://www.meetup.com/hnchicago/)
 - [DC](http://hackernewsdc.org/)
 - [Los Angeles](http://www.meetup.com/LAHackers/)
-- [San Diego](http://sdhn.org/)
 - [San Francisco](https://www.facebook.com/groups/gosfhn/)
 - [Seattle](http://www.meetup.com/HackerNewsSeattleMeetup/)
 - [Stanford](http://www.meetup.com/Stanford-Hacker-News/)
