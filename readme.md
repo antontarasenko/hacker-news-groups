@@ -11,6 +11,12 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 ## Meetups
 
+### Misc Locations
+
+Readers were looking for meetup members and organizers in locations not listed in this repo:
+
+- https://news.ycombinator.com/item?id=19264764 (see subthreads)
+
 ### Australia
 
 - [Melbourne](https://lists.riseup.net/www/info/hn-melbourne)
