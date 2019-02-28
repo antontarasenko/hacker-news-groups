@@ -13,7 +13,7 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 ### Australia
 
-- [Melbourne](https://lists.riseup.net/www/subscribe/hn-melbourne) Fledgling group – join me :smile:
+- [Melbourne](https://lists.riseup.net/www/info/hn-melbourne)
 
 ### China
 
