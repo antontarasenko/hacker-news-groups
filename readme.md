@@ -13,7 +13,7 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 ### Australia
 
-- [Melbourne](https://github.com/antontarasenko/hacker-news-groups/issues/13) Interested in creating a group?  Join me :smile:
+- [Melbourne](https://lists.riseup.net/www/subscribe/hn-melbourne) Fledgling group – join me :smile:
 
 ### China
 
