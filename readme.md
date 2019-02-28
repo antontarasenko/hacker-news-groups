@@ -73,7 +73,6 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 - [New York](https://www.meetup.com/Launch-NYC/)
 - [San Francisco](https://www.facebook.com/groups/gosfhn/)
 - [Seattle](http://www.meetup.com/HackerNewsSeattleMeetup/)
-- [Stanford](http://www.meetup.com/Stanford-Hacker-News/)
 
 ## Web
 
