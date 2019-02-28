@@ -11,6 +11,10 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 ## Meetups
 
+### Australia
+
+- [Melbourne](https://github.com/antontarasenko/hacker-news-groups/issues/13) Interested in creating a group?  Join me :smile:
+
 ### China
 
 - [Shanghai](http://www.meetup.com/Shanghai-Hacker-News-Meetup/)
