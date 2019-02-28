@@ -11,6 +11,10 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
 
 ## Meetups
 
+### Australia
+
+- [Melbourne](https://lists.riseup.net/www/subscribe/hn-melbourne) Fledgling group – join me :smile:
+
 ### China
 
 - [Shanghai](http://www.meetup.com/Shanghai-Hacker-News-Meetup/)
