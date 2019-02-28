@@ -40,6 +40,10 @@ Feel free to add links with pull requests or by sending them to <antontarasenko@
   - [Slack](https://hntokyo.io/)
   - [Facebook](https://www.facebook.com/Tokyo-Hacker-News-Community-169610256492857/)
 
+- Fukuoka
+  - [Meetup.com](https://www.meetup.com/Hacker-News-Fukuoka/)
+  - [Facebook](https://www.facebook.com/HackFukuoka)
+
 ### India
 
 - [Chennai](http://www.meetup.com/Hacker-News-Chennai/)
